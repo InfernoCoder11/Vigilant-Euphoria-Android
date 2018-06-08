@@ -21,15 +21,16 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Connect"
+            android:text="Test"
             android:layout_weight="1"
             android:layout_marginStart="5sp"
-            android:layout_marginEnd="10sp"/>
+            android:layout_marginEnd="10sp"
+            android:onClick="buttonOnClick"/>
 
     </LinearLayout>
 
     <TextView
-        android:text="Adarsh Menon's Android App"
+        android:text="InfernoCoder11's Android App"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="24sp"  />
